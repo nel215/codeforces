@@ -2,7 +2,6 @@
 
 # Eclipse specific
 .cache
-.classpath
 .metadata
 .settings
 
