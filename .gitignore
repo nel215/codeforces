@@ -1,4 +1,11 @@
 *.class
 
+# Eclipse specific
+.cache
+.project
+.classpath
+.metadata
+.settings
+
 # Scala-IDE specific
 .scala_dependencies
